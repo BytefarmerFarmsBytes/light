@@ -18,3 +18,9 @@ same as install instructions, just dont say yes to installing again
 files/light.py is a slightly modified version of the code on the page linked below, if you would like me to take this down contact me at bytefarmerbeats@gmail.com
 
 blog.nanax.fr/post/2018-05-01-chromebook-linux/
+
+
+!RUN INSTRUCTIONS!
+sudo light -h
+or
+sudo lightui
