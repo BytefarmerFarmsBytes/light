@@ -179,12 +179,12 @@ os.system("systemctl start light")
 
 if os.path.exists("/bin/python"):
     print("python exists\n")
-else
+else :
     if os.path.exists("/bin/python3"):
         print("/bin/python does not exist")
         print("symlinking /bin/python3 to /bin/python\n")
         os.system("ln -s /bin/python3 /bin/python")
-    else
+    else :
         print("missing python3 please, install it using your package manager\n")
         print("quiting")
         quit()
