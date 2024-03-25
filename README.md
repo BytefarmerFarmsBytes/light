@@ -24,3 +24,5 @@ blog.nanax.fr/post/2018-05-01-chromebook-linux/
 sudo light -h
 or
 sudo lightui
+or
+the app in your application menu called light
