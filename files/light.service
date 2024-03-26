@@ -1,0 +1,8 @@
+[Unit]
+Description=Action Light
+
+[Service]
+ExecStart=/bin/light.start
+
+[Install]
+WantedBy=multi-user.target
