@@ -1,3 +1,0 @@
-#!/bin/bash
-
-sudo lightscript $1 $2

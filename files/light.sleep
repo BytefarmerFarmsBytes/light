@@ -1,2 +1,0 @@
-#!/bin/bash
-sudo light -s $(cat /etc/light-current.conf)
