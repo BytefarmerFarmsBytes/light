@@ -1,8 +1,0 @@
-#!/bin/sh
-#
-#GUI for TRIM4SSD-portable...
-#
-
-#
-yad --center  --window-icon=/usr/share/pixmaps/lightbar.png --title="Action Light Changer" --form --width=400 --text="Select your color" \
---button="Red":light\ -s\ red --button="Green":light\ -s\ green --button="Blue":light\ -s\ blue --button="Cyan":light\ -s\ cyan --button="Magenta":light\ -s\ magenta --button="Yellow":light\ -s\ yellow --button="White":light\ -s\ white --button="Black":light\ -s\ black
