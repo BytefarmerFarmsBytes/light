@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Light
+Comment=A program to change the color of the activity light on your dell chromebook model 11
+Exec=pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY /bin/lightuiwrapper
+Icon=/usr/share/pixmaps/lightbar.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Categories=Utilities;
+X-Desktop-File-Install-Version=0.15
